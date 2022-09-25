@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1663602488 source:c:\users\mido ayman\desktop\amit\projects\simpledb\functions.c
+
+1664136710 source:c:\users\mido ayman\desktop\amit\projects\simpledb\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DataTypes.h"
+	"Data.h"
+	"node.h"
+	"LinkedList.h"
+
+1663700595 c:\users\mido ayman\desktop\amit\projects\simpledb\datatypes.h
+
+1663602516 c:\users\mido ayman\desktop\amit\projects\simpledb\functions.h
+
+1663707295 c:\users\mido ayman\desktop\amit\projects\simpledb\data.h
+	"DataTypes.h"
+
+1664136770 source:c:\users\mido ayman\desktop\amit\projects\simpledb\linkedlist.c
+	"DataTypes.h"
+	"node.h"
+	<stdio.h>
+	<stdlib.h>
+
+1664023706 c:\users\mido ayman\desktop\amit\projects\simpledb\node.h
+	"data.h"
+
+1664028073 c:\users\mido ayman\desktop\amit\projects\simpledb\linkedlist.h
+	"DataTypes.h"
+	"node.h"
+
